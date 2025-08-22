@@ -1,0 +1,3 @@
+#Rename this file to fstab and add fstab entries to it so it can be added during the setup process
+#serverIp:/mnt/main_pool/data/media /network/media            nfs      defaults,_netdev    0       0
+
